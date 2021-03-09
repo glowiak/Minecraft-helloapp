@@ -1,5 +1,5 @@
 # Minecraft.app
-I packed Minecraft Launcher into a helloSystem Application. Requires openjdk8 package to be installed.
+I packed Minecraft Launcher into a helloSystem Application.
 
 # Download
 Just download [this](https://github.com/glowiak/Minecraft-helloapp/releases/download/1.1-1/Minecraft.tar.bz2) file, unpack it with 'tar xjvf Minecraft.tar.bz2', and run it!
